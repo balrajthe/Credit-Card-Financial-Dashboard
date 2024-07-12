@@ -1,2 +1,2 @@
-# Credit-Card-Financial-Dashboard
-A weekly Credit Card Interactive Dashboad
+# Credit_Card_Financial_Dashboard
+Credit Card Transaction and Customer Dashboard using Power BI
